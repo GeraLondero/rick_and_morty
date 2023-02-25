@@ -1,0 +1,21 @@
+.h1{
+    position: fixed; top: 30px; left: 480px;
+}
+
+.select{
+    border: 1px solid blue;
+    background-color: white;
+    border: 3px solid blue;
+    width: 105px;
+    height: 25px;
+    text-align: center;
+}
+
+.reset{
+    border: 1px solid blue;
+    background-color: white;
+    border: 3px solid blue;
+    width: 60px;
+    height: 25px;
+    text-align: center;
+}

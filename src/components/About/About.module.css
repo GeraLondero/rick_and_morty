@@ -1,0 +1,22 @@
+.presentacion{
+    text-align: center;
+    position: fixed; top: 360px; left: 470px;
+}
+.h2{
+    text-align: center;
+    position: fixed; top: 410px; left: 410px;
+}
+
+.introduccion{
+    text-align: center;
+    position: fixed; top: 465px; left: 360px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 270px;
+    margin: 0 auto;
+   
+}
