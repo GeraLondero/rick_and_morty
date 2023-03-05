@@ -1,5 +1,6 @@
 .h1{
     position: fixed; top: 30px; left: 480px;
+    color: red;
 }
 
 .select{

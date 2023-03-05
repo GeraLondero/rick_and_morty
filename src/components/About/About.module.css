@@ -1,15 +1,18 @@
 .presentacion{
     text-align: center;
-    position: fixed; top: 360px; left: 470px;
+    position: fixed; top: 380px; left: 470px;
+    
 }
 .h2{
     text-align: center;
-    position: fixed; top: 410px; left: 410px;
+    position: fixed; top: 430px; left: 410px;
+    color: black;
 }
 
 .introduccion{
     text-align: center;
-    position: fixed; top: 465px; left: 360px;
+    position: fixed; top: 475px; left: 360px;
+    color: black;
 }
 
 .img{
@@ -19,4 +22,16 @@
     width: 270px;
     margin: 0 auto;
    
+}
+
+.datos{
+    position: absolute; right: 370px; top: 380px;
+    border: 15px solid black;
+    background-color: #edaa7c;
+    border: 3px solid black;
+    border-top-left-radius: 3px;
+    width: 650px;
+    height: 200px;
+
+    
 }
